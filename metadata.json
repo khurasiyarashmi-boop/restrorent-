@@ -1,0 +1,6 @@
+{
+  "name": "Serendipity Cafe",
+  "description": "Serendipity Cafe — Experience delicious food, beautiful ambience, and warm hospitality in Napier Town, Jabalpur. 4.1★ (136 Reviews). Open till 12 AM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
